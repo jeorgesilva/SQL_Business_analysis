@@ -1,4 +1,4 @@
-# SQL_Business_analysis
+# SQL_Magist_Business_analysis
 
 Summary
 
